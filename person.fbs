@@ -1,0 +1,5 @@
+table Person {
+  age: int;
+  name: string;
+}
+root_type Person;
